@@ -1,0 +1,18 @@
+/* Dashboard Background */
+body {
+  background-color: #f8f9fa;
+  font-family: Arial, sans-serif;
+}
+
+/* Dashboard Cards Styling */
+.dashboard-card {
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: 0.3s;
+}
+
+/* Hover Effect */
+.dashboard-card:hover {
+  transform: translateY(-5px);
+}
